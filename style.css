@@ -1,7 +1,7 @@
 h1 {
   color: #A997DF;
   text-decoration; 
-  border-style: dotted;
+  border-style: underline;
    font-family: verdana;
   text-indent: 50px
  
@@ -16,3 +16,29 @@ img:hover {
 }
 
 
+nav {
+  list-style-type: none;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #333
+    
+  
+}
+
+li a {
+  color: white;
+  text-decoration: none;
+  display: block;
+  padding: 15px 50px;
+  float: left;
+}
+
+li a:hover {
+  background-color: wheat;
+  color:black;
+    
+  
+    
+}
