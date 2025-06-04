@@ -21,6 +21,21 @@ li a:hover {
   background-color: wheat;
   color:black;
     
-  
+ h1 {
+  color: #A997DF;
+  text-decoration; 
+  border-style: dotted;
+   font-family: verdana;
+  text-indent: 50px
+ 
+}
+
+body {
+    background-image: url(https://images8.alphacoders.com/558/thumb-1920-558676.jpg)
+}
+img:hover {
+  width: 400px;
+  transition: width 2s;
+} 
     
 }
