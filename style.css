@@ -23,22 +23,18 @@ li a:hover {
     
  h1 {
   color: #A997DF;
-  text-decoration; 
-  border-style: dotted;
+  text-decoration-line: underline;
+ text-decoration-style: wavy;
    font-family: verdana;
   text-indent: 50px
  
 }
 
 body {
-     background-color: darkgreen;
+    background-color: darkgreen
 }
-  
 img:hover {
   width: 400px;
   transition: width 2s;
-  padding: 5px;
-  
-} 
-
 }
+
