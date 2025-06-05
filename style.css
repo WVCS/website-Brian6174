@@ -20,18 +20,18 @@ li a {
 li a:hover {
   background-color: wheat;
   color:black;
-    
+  
+body {    
+  
  h1 {
   color: #A997DF;
   text-decoration-line: underline;
  text-decoration-style: wavy;
    font-family: verdana;
   text-indent: 50px
- 
 }
 
-body {
-    background-color: darkgreen
+ background-color: darkgreen
 }
 img:hover {
   width: 400px;
